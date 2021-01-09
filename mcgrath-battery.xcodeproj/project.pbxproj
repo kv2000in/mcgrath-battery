@@ -6,10 +6,17 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		2A4E19C625A999F3001FC508 /* mcgrath.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = mcgrath.csv; sourceTree = "<group>"; };
+		2A4E19C725A99A22001FC508 /* decrypt.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = decrypt.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2A4E19BF25A999D4001FC508 = {
 			isa = PBXGroup;
 			children = (
+				2A4E19C725A99A22001FC508 /* decrypt.py */,
+				2A4E19C625A999F3001FC508 /* mcgrath.csv */,
 			);
 			sourceTree = "<group>";
 		};
